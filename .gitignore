@@ -1,0 +1,3 @@
+data/*.txt
+src/cron.conf
+src/run-get_fx_rates.sh

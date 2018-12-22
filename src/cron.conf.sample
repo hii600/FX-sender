@@ -1,0 +1,1 @@
+0 17 * * * cd /path/to/src/directory/ ; ./run-get_fx_rates.sh
